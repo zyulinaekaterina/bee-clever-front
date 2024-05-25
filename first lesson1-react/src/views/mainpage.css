@@ -1,0 +1,415 @@
+.mainpage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mainpage-mainpage {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(240, 236, 215, 1);
+}
+.mainpage-honeycomb {
+  top: -258px;
+  left: -154.00001525878906px;
+  width: 2227.999755859375px;
+  height: 1346px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mainpage-polygon87 {
+  top: 140.96974182128906px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon88 {
+  top: 423.9530029296875px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon89 {
+  top: 706.936279296875px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon90 {
+  top: 989.9204711914062px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon96 {
+  top: 282.9832458496094px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon107 {
+  top: 143.05923461914062px;
+  left: 430.1371765136719px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon110 {
+  top: 140.96974182128906px;
+  left: 984.4146728515625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon112 {
+  top: 143.05923461914062px;
+  left: 1515.822021484375px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon97 {
+  top: 565.9664916992188px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon99 {
+  top: 848.9517211914062px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon91 {
+  top: 156.63218688964844px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon92 {
+  top: 439.6154479980469px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon93 {
+  top: 722.6006469726562px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon94 {
+  top: 1005.5839233398438px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon100 {
+  top: 1131.9349365234375px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon102 {
+  top: 282.9832458496094px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon103 {
+  top: 565.9664916992188px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon105 {
+  top: 848.9517211914062px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon106 {
+  top: 1131.9349365234375px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon113 {
+  top: 107px;
+  left: 707px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-polygon114 {
+  top: 107px;
+  left: 1250px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.mainpage-minicourse {
+  top: 663px;
+  left: 276px;
+  width: 1354px;
+  height: 253px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mainpage-photo {
+  top: 0px;
+  left: 0px;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  border-color: rgba(166, 107, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.mainpage-name {
+  top: 0px;
+  left: 277px;
+  width: 1077px;
+  height: 70px;
+  position: absolute;
+  border-color: rgba(166, 107, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.mainpage-text {
+  top: 10px;
+  left: 277px;
+  color: rgba(0, 0, 0, 1);
+  width: 1077px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-text:hover {
+    transform: scale(1.1);
+}
+.mainpage-tag {
+  top: 105px;
+  left: 277px;
+  width: 522px;
+  height: 147px;
+  position: absolute;
+  border-color: rgba(166, 107, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.mainpage-duration {
+  top: 105px;
+  left: 1091px;
+  width: 257px;
+  height: 147px;
+  position: absolute;
+  border-color: rgba(166, 107, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.mainpage-cost {
+  top: 106px;
+  left: 816px;
+  width: 257px;
+  height: 147px;
+  position: absolute;
+  border-color: rgba(166, 107, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.mainpage-text02 {
+  top: 105px;
+  left: 817px;
+  color: rgba(0, 0, 0, 1);
+  width: 256px;
+  height: auto;
+  position: absolute;
+  font-size: 31px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-text08 {
+  top: 105px;
+  left: 284px;
+  color: rgba(0, 0, 0, 1);
+  width: 522px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-text12 {
+  top: 105px;
+  left: 1092px;
+  color: rgba(0, 0, 0, 1);
+  width: 257px;
+  height: auto;
+  position: absolute;
+  font-size: 31px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-frame {
+  top: 2px;
+  left: 2px;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+}
+.mainpage-header {
+  top: 0px;
+  left: 0px;
+  width: 2200px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(188, 146, 78, 1);
+}
+.mainpage-logo {
+  top: 20px;
+  left: 25px;
+  width: 384px;
+  height: 110px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainpage-image1 {
+  top: 24px;
+  left: 287px;
+  width: 71px;
+  height: 71px;
+  position: absolute;
+}
+.mainpage-text16 {
+  top: 21px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Imprima;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-btnlogout {
+  top: 32px;
+  left: 1647px;
+  width: 225px;
+  height: 85px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 144, 34, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+  background-color: rgba(240, 237, 216, 1);
+}
+.mainpage-btnlogout:hover {
+    transform: scale(1.1);
+}
+.mainpage-text18 {
+  top: 12px;
+  color: rgba(0, 0, 0, 1);
+  left: -7px;
+  width: 225px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Imprima;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-text20 {
+  top: 206px;
+  left: 276px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-image6 {
+  top: 110px;
+  left: 120px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+}

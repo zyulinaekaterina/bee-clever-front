@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='55' height='93' viewBox='0 0 55 93' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<g filter='url(#filter0_b_147_4)'>
+<path d='M-58.366 -108.181C-48.4213 -113.687 -36.3431 -113.687 -26.3984 -108.181L37.2654 -72.9347C47.7655 -67.1215 54.2816 -56.0659 54.2816 -44.064V24.0686C54.2816 36.0704 47.7655 47.1261 37.2654 52.9393L-26.3984 88.1857C-36.3431 93.6914 -48.4213 93.6914 -58.366 88.1857L-122.03 52.9393C-132.53 47.1261 -139.046 36.0705 -139.046 24.0686V-44.064C-139.046 -56.0659 -132.53 -67.1215 -122.03 -72.9347L-58.366 -108.181Z' fill='#FFBB40'/>
+<path d='M-57.6395 -106.869C-48.1468 -112.124 -36.6176 -112.124 -27.125 -106.869L36.5389 -71.6224C46.5617 -66.0735 52.7816 -55.5204 52.7816 -44.064V24.0686C52.7816 35.5249 46.5617 46.078 36.5389 51.627L-27.125 86.8734C-36.6176 92.1288 -48.1468 92.1288 -57.6395 86.8734L-121.303 51.627C-131.326 46.078 -137.546 35.5249 -137.546 24.0686V-44.064C-137.546 -55.5203 -131.326 -66.0735 -121.303 -71.6224L-57.6395 -106.869Z' stroke='#A66B00' stroke-width='3'/>
+</g>
+<defs>
+<filter id='filter0_b_147_4' x='-339.046' y='-312.311' width='593.327' height='604.626' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'>
+<feFlood flood-opacity='0' result='BackgroundImageFix'/>
+<feGaussianBlur in='BackgroundImageFix' stdDeviation='100'/>
+<feComposite in2='SourceAlpha' operator='in' result='effect1_backgroundBlur_147_4'/>
+<feBlend mode='normal' in='SourceGraphic' in2='effect1_backgroundBlur_147_4' result='shape'/>
+</filter>
+</defs>
+</svg>

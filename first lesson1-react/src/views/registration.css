@@ -1,0 +1,220 @@
+.registration-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.registration-registration {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(240, 236, 215, 1);
+}
+.registration-honeycomb {
+  top: 169px;
+  left: 0px;
+  width: 1920px;
+  height: 493px;
+  opacity: 0.40;
+  position: absolute;
+}
+.registration-header {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registration-logo {
+  top: 20px;
+  left: 25px;
+  width: 384px;
+  height: 110px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registration-image1 {
+  top: 24px;
+  left: 287px;
+  width: 71px;
+  height: 71px;
+  position: absolute;
+}
+.registration-text {
+  top: 21px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Imprima;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registration-btnsignin {
+  top: 32px;
+  left: 1656px;
+  width: 216px;
+  height: 85px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(255, 164, 0, 1);
+}
+.registration-btnsignin:hover {
+    background-color: #FFBB40;
+    transform: scale(1.1);
+}
+.registration-text02 {
+  top: 21px;
+  left: 54px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Imprima;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registration-inputname {
+  top: 222px;
+  left: 538px;
+  width: 844px;
+  height: 90px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(253, 253, 253, 1);
+}
+.registration-inputmail {
+  top: 371px;
+  left: 538px;
+  width: 844px;
+  height: 90px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(253, 253, 253, 1);
+}
+.registration-inputpass {
+  top: 513px;
+  left: 538px;
+  width: 844px;
+  height: 90px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(253, 253, 253, 1);
+}
+.registration-text04 {
+  top: 169px;
+  left: 538px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kurale;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+input[type~="text"]
+{font-size: 35px;}
+.registration-text06 {
+  top: 461px;
+  left: 538px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kurale;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registration-text10 {
+  top: 320px;
+  left: 538px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 37px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kurale;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registration-btnsignup {
+  top: 730px;
+  left: 720px;
+  width: 470px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(222, 203, 153, 1);
+}
+.registration-btnsignup:hover {
+    background-color: #FFBB40;
+    transform: scale(1.1);
+}
+.registration-text12 {
+  top: 20px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Imprima;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

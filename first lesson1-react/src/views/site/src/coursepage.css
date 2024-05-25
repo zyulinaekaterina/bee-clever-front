@@ -1,0 +1,441 @@
+.coursepage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.coursepage-coursepage {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(240, 236, 215, 1);
+}
+.coursepage-honeycomb {
+  top: -258px;
+  left: -154.00001525878906px;
+  width: 2227.999755859375px;
+  height: 1346px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.coursepage-polygon87 {
+  top: 140.96974182128906px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon88 {
+  top: 423.9530029296875px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon89 {
+  top: 706.936279296875px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon90 {
+  top: 989.9204711914062px;
+  left: 0px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon96 {
+  top: 282.9832458496094px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon107 {
+  top: 143.05923461914062px;
+  left: 430.1371765136719px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon110 {
+  top: 140.96974182128906px;
+  left: 984.4146728515625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon112 {
+  top: 143.05923461914062px;
+  left: 1515.822021484375px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon97 {
+  top: 565.9664916992188px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon99 {
+  top: 848.9517211914062px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon91 {
+  top: 156.63218688964844px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon92 {
+  top: 439.6154479980469px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon93 {
+  top: 722.6006469726562px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon94 {
+  top: 1005.5839233398438px;
+  left: 2004.76416015625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon100 {
+  top: 1131.9349365234375px;
+  left: 206.90142822265625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon102 {
+  top: 282.9832458496094px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon103 {
+  top: 565.9664916992188px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon105 {
+  top: 848.9517211914062px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon106 {
+  top: 1131.9349365234375px;
+  left: 1774.994384765625px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon113 {
+  top: 107px;
+  left: 707px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-polygon114 {
+  top: 107px;
+  left: 1250px;
+  width: 223px;
+  height: 214px;
+  position: absolute;
+}
+.coursepage-course {
+  top: 239px;
+  left: 293px;
+  width: 1328px;
+  height: 734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.coursepage-photo {
+  top: 0px;
+  left: 0px;
+  width: 450px;
+  height: 450px;
+  position: absolute;
+}
+.coursepage-name {
+  top: 0px;
+  left: 475px;
+  width: 853px;
+  height: 107px;
+  position: absolute;
+  border-radius: 30px;
+}
+.coursepage-text {
+  top: 20px;
+  left: 475px;
+  color: rgba(0, 0, 0, 1);
+  width: 853px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-desciption {
+  top: 142px;
+  left: 475px;
+  width: 853px;
+  height: 308px;
+  position: absolute;
+  border-radius: 30px;
+}
+.coursepage-text02 {
+  top: 142px;
+  left: 486px;
+  color: rgba(0, 0, 0, 1);
+  width: 842px;
+  height: auto;
+  position: absolute;
+  font-size: 31px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-link {
+  top: 487px;
+  left: 0px;
+  width: 1328px;
+  height: 88px;
+  position: absolute;
+  border-radius: 30px;
+}
+.coursepage-text04 {
+  top: 510px;
+  color: rgba(0, 0, 0, 1);
+  width: 1328px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-tag {
+  top: 611px;
+  left: 0px;
+  width: 641px;
+  height: 123px;
+  position: absolute;
+  border-radius: 30px;
+}
+.coursepage-duration {
+  top: 611px;
+  left: 689px;
+  width: 296px;
+  height: 123px;
+  position: absolute;
+  border-radius: 30px;
+}
+.coursepage-cost {
+  top: 611px;
+  left: 1032px;
+  width: 296px;
+  height: 123px;
+  position: absolute;
+  border-radius: 30px;
+}
+.coursepage-text06 {
+  top: 611px;
+  left: 1033px;
+  color: rgba(0, 0, 0, 1);
+  width: 295px;
+  height: auto;
+  position: absolute;
+  font-size: 31px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-text10 {
+  top: 611px;
+  left: var(--dl-space-space-halfunit);
+  color: rgba(0, 0, 0, 1);
+  width: 641px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-text12 {
+  top: 611px;
+  left: 689px;
+  color: rgba(0, 0, 0, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 31px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Stardos Stencil;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-frame {
+  top: 2px;
+  left: 2px;
+  width: 445px;
+  height: 447px;
+  position: absolute;
+}
+.coursepage-header {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(188, 146, 78, 1);
+}
+.coursepage-logo {
+  top: 20px;
+  left: 25px;
+  width: 384px;
+  height: 110px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.coursepage-image1 {
+  top: 24px;
+  left: 287px;
+  width: 71px;
+  height: 71px;
+  position: absolute;
+}
+.coursepage-text14 {
+  top: 21px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Imprima;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-btntocourses {
+  top: 32px;
+  left: 1498px;
+  width: 374px;
+  height: 85px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 144, 34, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+  background-color: rgba(240, 237, 216, 1);
+}
+.coursepage-text16 {
+  color: rgba(0, 0, 0, 1);
+  width: 374px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Imprima;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.coursepage-bee {
+  top: 88.00030517578125px;
+  left: -46.99978256225586px;
+  width: 1966.9996337890625px;
+  height: 843.9996948242188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.coursepage-image5 {
+  top: 459.5595703125px;
+  left: 1416.891357421875px;
+  width: 550px;
+  height: 384px;
+  position: absolute;
+}
+.coursepage-image6 {
+  top: -15px;
+  left: 32px;
+  width: 489px;
+  height: 313px;
+  position: absolute;
+}
